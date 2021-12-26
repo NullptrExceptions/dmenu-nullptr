@@ -1,6 +1,6 @@
 # dmenu-nullptr
 My custom dmenu build
 
-**Patches**
+**Patches:**
 <br>
 case-insensitive
